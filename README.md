@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 - Required Python libraries installed. You can install them using `pip`:
 
 Repl.it
-[![Run on Repl.it](https://replit.com/@console1337/TempMailGen)
+[Run on Repl.it](https://replit.com/@console1337/TempMailGen)
 
 Acknowledgments
 ~ This tool relies on the [1secmail.com](https://www.1secmail.com/) API. Visit 1secmail.com for more information about their service.
