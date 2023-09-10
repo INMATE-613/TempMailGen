@@ -16,19 +16,6 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.x installed on your system.
 - Required Python libraries installed. You can install them using `pip`:
 
-```bash
-pip install requests colorama pyfiglet
-```
-
-##Usage
-
-Clone this repository:
-https://github.com/idkconsole/TempMailGen.git
-cd TempMailGen
-
-Run the script:
-python main.py or python3 main.py
-
 ##Repl.it
 [![Run on Repl.it](https://replit.com/@console1337/TempMailGen)
 
